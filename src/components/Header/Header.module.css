@@ -1,0 +1,23 @@
+.header {
+    background-color: #070707;
+    color: #fff;
+    padding: 48px;
+    text-align: center;
+}
+
+.pageTitle {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-top: 0;
+}
+
+.subTitle {
+    font-size: 2rem;
+    margin-bottom: 0;
+}
+
+@media screen and (min-width: 768px) {
+    .pageTitle {
+        font-size: 5rem;
+    }
+}
